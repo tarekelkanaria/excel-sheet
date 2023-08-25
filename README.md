@@ -6,7 +6,7 @@
 
 ## Demo Preview
 
-[Link to the demo]()
+[Link to the demo](https://excel-sheet-elkanaria.vercel.app/)
 
 ## Project setup
 
